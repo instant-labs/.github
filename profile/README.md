@@ -4,6 +4,6 @@ Backed by [Y Combinator](https://ycombinator.com), [Slow Ventures](https://slow.
 
 ## Jobs at Instant Domains
 
-[Experienced Rust Engineer • Amsterdam, Netherlands / Remote • $100k - $200k • 0.25% - 1.00% • Apply now!](https://www.ycombinator.com/companies/instant-domains/jobs/oCFQlxH-experienced-rust-engineer)
+[Experienced Rust Engineer • Amsterdam, Netherlands / Remote • $100k - $200k • 0.1% - 1.00% • Apply now!](https://www.ycombinator.com/companies/instant-domains/jobs/oCFQlxH-experienced-rust-engineer)
 
-[Experienced React/TypeScript Engineer • Victoria, Canada / Remote • $100k - $200k • 0.25% - 1.00% • Apply now!](https://www.ycombinator.com/companies/instant-domains/jobs/BOL8BuC-experienced-react-typescript-engineer)
+[Experienced React/TypeScript Engineer • Victoria, Canada • $100k - $200k • 0.1% - 1.00% • Apply now!](https://www.ycombinator.com/companies/instant-domains/jobs/BOL8BuC-experienced-react-typescript-engineer)
