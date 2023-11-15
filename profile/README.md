@@ -1,1 +1,3 @@
+![Cover logo](./cover.svg)
+
 Backed by [Y Combinator](https://ycombinator.com), [Slow Ventures](https://slow.co), [Form Capital](https://formcapital.com/), and [Tiny Capital](https://tiny.com).
