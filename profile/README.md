@@ -1,4 +1,4 @@
-![Cover logo](./profile/cover.svg)
+![Cover logo](./cover.svg)
 
 # Instant Labs builds **ai-powered** products to **help creators thrive.**
 
